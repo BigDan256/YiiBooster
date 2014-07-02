@@ -1,4 +1,4 @@
-YiiBooster 
+YiiBooster
 ==========
 
 [![Travis CI](https://travis-ci.org/clevertech/YiiBooster.svg?branch=master)](https://travis-ci.org/clevertech/YiiBooster)
@@ -10,13 +10,13 @@ YiiBooster
 
 ---
 
-**This is the master branch, containing work in progress on the next release. 
+**This is the master branch, containing work in progress on the next release.
 Do not think that it's a production ready version which you can safely clone into your project.
 If you want the latest point release, check out the `4.0.1` release**
 
 ---
 
-**4.x.x is based on twitter Bootstrap 3.1.1 or later. 
+**4.x.x is based on twitter Bootstrap 3.1.1 or later.
 If you want to use Bootstrap 2.3.2, please check out the latest `3.x.x` release**
 
 ---
